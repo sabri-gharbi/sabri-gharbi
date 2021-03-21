@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabri-gharbi
+- 👋 Hi, I’m sabri gharbi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about Flutter and Angular
 - 📫 How to reach me ? sabrigharbi99@gmail.com
