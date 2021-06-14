@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sabri gharbi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about Flutter and Angular
-- 📫 How to reach me ? sabrigharbi99@gmail.com
+- 📫 How to reach me ? sabrigharbi@insat.u-carthage.tn
 
 <!---
 sabri-gharbi/sabri-gharbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
